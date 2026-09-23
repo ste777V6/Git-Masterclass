@@ -2273,8 +2273,8 @@ This output provides a **text-based visualization of the commit graph**, showing
 * Characters like `|`, `\`, and `/` represent how the commit history branches and merges:
 
   * `|` → continuation of the same line of development
-  * `\` → branch diverging
-  * `/` → branches merging back together
+  * `/` → branch diverging
+  * `\` → branches merging back together
 * In the section:
 
   ```
